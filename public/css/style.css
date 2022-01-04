@@ -1,0 +1,60 @@
+body{
+    background-color: aqua;
+    align-items: center;
+  
+    
+}
+
+.title{
+    color: blue;
+    font-family: 'Segoe UI';
+    margin-left: 38%;
+  
+}
+
+.done-btn{ 
+    background-color: rgb(102, 148, 17);
+}
+
+ul {
+    list-style-type: none;
+}
+
+.form-body{
+    margin-left: 20%;
+}
+
+
+textarea {
+    border: 0.5px solid black;
+    margin: auto;  
+    text-align: center;
+    width: 85%;
+    display: flex;
+    align-items: center;
+    
+   
+  }
+  
+  li{
+      display: flex;
+      margin-right:5% ;
+     
+  }
+
+  input{
+      text-align: center;
+      width: 58%;
+  }
+
+  .cancel{
+    width: 400px;
+  border: 3px solid black;
+  padding: 2.5px;
+  margin: 10px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  background-color: lightblue;
+  color: black;
+  text-decoration: none;
+  }
+  
